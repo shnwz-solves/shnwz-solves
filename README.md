@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @shnwz-solves (Mohammed Shahnawaz Alam)
+- 👀 I’m interested in developing interactive and User friengly User Interfaces
+- 🌱 I’m currently learning Typescript, Angular, SQL, Node.js and Express.js.
+- 💞️ I’m looking to collaborate on Web Development Projects.
+- 📫 Reach me: shahnawaz.md.official@gmail.com 
+- 😄 Pronouns: He/him
+- ⚡ LinkedIn : https://www.linkedin.com/in/shahnawazdeveloper/
